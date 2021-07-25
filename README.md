@@ -1,7 +1,7 @@
 # better-than-yesterday
 Working name. 
 
-[A bit of a brain dump of an idea at a high level](./Idea.md)
+[A bit of a brain dump of posibilites (also the execution part of the idea)](./Idea.md)
 
 ## Challenge
 Climate change is bad news. Not enough people are taking action. Those that do take action tend to do so whole sale (not the target audience) or focus on gestures ( swap out plastic straws ). Effect actual change in the majority by being better, small things like the meat free Mondays help. But we need so many of these initatives accross the whole of our lives to achieve real change. 

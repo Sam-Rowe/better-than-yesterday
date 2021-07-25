@@ -1,4 +1,4 @@
-Better than yesterday
+[Better than yesterday high level readme](./README.md)
 * [Blog](Idea.md#Blog)
 * [Community](Idea.md#Community)
 * [Videos](Idea.md#Videos)

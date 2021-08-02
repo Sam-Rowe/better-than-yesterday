@@ -30,6 +30,8 @@ Amplifes the action we take with the action the community takes and gives oportu
 Is there a pre made community of moderates to link into?
 Build on EddieHub automated tooling for moderation?
 
+in person events, fayres run around the country? Maybe we could help to build the content for the fayre and work out what hits home with peeps?
+
 # Videos
 Youtube channel in effect. 
 Revenue stream to fund changes? Avenue to grow audience and bring into the Blog and Community? 

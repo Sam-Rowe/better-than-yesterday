@@ -44,3 +44,5 @@ Short format videos can be of simple changes?
   * How to buy Carbon Offsets
   * How to buy Carbon Removals
   * Review of Huel food for low impact eating
+  * Green enegy suppliers
+  * Growing food at home
